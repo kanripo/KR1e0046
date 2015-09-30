@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋講義
-#+DATE: 2015-09-23 09:39:45
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:14:15.876129
+#+PROPERTY: ID KR1e0046
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一上
 <pb:KR1e0046_WYG_001-1a>¶
 欽定四庫全書¶
 　春秋講義卷一上　　　　　宋　戴溪　撰¶
@@ -935,6 +937,7 @@
 夏四月丙子公薨于齊丁酉公之喪至自齊¶
 秋七月¶
 冬十有二月己丑葬我君桓公¶
+#+PROPERTY: JUAN 卷一下
 <pb:KR1e0046_WYG_001-53a>¶
 欽定四庫全書¶
 　春秋講義卷一下　　　　　宋　戴溪　撰¶
@@ -1632,4 +1635,3 @@
 秋七月癸巳公子牙卒八月癸亥公薨于路寝冬十月¶
 己未子般卒公子慶父如齊¶
 狄伐邢¶
-

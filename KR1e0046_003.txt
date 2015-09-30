@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋講義
-#+DATE: 2015-09-23 09:39:45
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:14:15.941336
+#+PROPERTY: ID KR1e0046
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三上
 <pb:KR1e0046_WYG_003-1a>¶
 欽定四庫全書¶
 　春秋講義卷三上　　　　　宋　戴溪　撰¶
@@ -1234,6 +1236,7 @@
 　䘮也厲雖無道䘮未踰年魯新有䘮猶未𦵏也孟獻¶
 　子請于諸侯而先歸㑹𦵏晉于是有愧矣¶
 丁未𦵏我君成公¶
+#+PROPERTY: JUAN 卷三下
 <pb:KR1e0046_WYG_003-70a>¶
 欽定四庫全書¶
 　春秋講義卷三下　　　　　宋　戴溪　撰¶
@@ -1830,4 +1833,3 @@
 冬十月滕子来㑹葬癸酉葬我君襄公¶
 <pb:KR1e0046_WYG_003-103a>¶
 十有一月莒人弑其君密州¶
-
